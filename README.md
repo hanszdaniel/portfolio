@@ -6,6 +6,7 @@ Final-year Software Engineering graduate with experience in data analytics, Powe
 - Noise Prediction Tool (Environmental & Occupational Safety)
 - UAUC Power BI Dashboard (HSSE Reporting)
 ### FundLink – Shared Account Financial Management System (Final Year Project)
+https://github.com/hanszdaniel/FundLink-FYP
 
 A web-based financial management system designed to help individuals and groups manage personal and shared expenses efficiently.
 
