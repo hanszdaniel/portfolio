@@ -1,23 +1,35 @@
+# Hansz Daniel Bin Suphian 
+
+I am a UNITEN graduate who completed my studies in January 2026 and am ready to contribute in a professional environment. I am motivated to grow with the company while continuously improving my technical and analytical skills.
+
+The projects shown are some of my completed works throughout my degree studies and internship, demonstrating my hands-on experience in web development, cloud systems, mobile applications, and data analytics.
+
+---
+
+## 🚀 Projects
+
 # Hansz Daniel Bin Suphian 👋
 
-Software Engineering graduate who builds practical web, cloud, and data-driven systems, including financial management platforms, cloud storage solutions, and analytics dashboards.
-
+Software Engineering graduate showcasing a portfolio of practical web, cloud, mobile, and data-driven projects.  
+Experienced in building end-to-end systems, analytics dashboards, and cloud-based applications with real deployments.
 
 ---
 
 ## 🚀 Projects
 
 ### 💰 FundLink – Shared Account Financial Management System (Final Year Project)
-🔗 https://github.com/hanszdaniel/FundLink-FYP  
+🔗 GitHub: https://github.com/hanszdaniel/FundLink-FYP  
 
-A web-based system to manage personal and shared expenses with budgeting, reporting, and email-based member invitations.
+A web-based financial management system designed to help individuals and groups manage personal and shared expenses transparently.
 
 **Key Features**
 - Personal & shared expense tracking  
-- Budget limits & custom categories  
+- Shared account with member management  
+- Custom categories and budget limits  
 - Monthly budget setup for shared accounts  
 - PDF statement generation  
-- Email-based invite & verification  
+- Email-based invite and verification  
+- Financial summaries and reports  
 
 **Tech Stack**  
 Laravel (PHP), MySQL, HTML, CSS, JavaScript, SMTP Email, PDF Generation
@@ -25,39 +37,63 @@ Laravel (PHP), MySQL, HTML, CSS, JavaScript, SMTP Email, PDF Generation
 ---
 
 ### ☁️ Cloud Image Storage System (Azure)
-🔗 https://hanszdaniel.github.io/cloud-image-storage-azure/
+🔗 Live Demo: https://hanszdaniel.github.io/cloud-image-storage-azure/  
 
-A cloud-based image storage web application built using Azure Functions and Azure Blob Storage.
+A cloud-based image storage web application that allows users to upload, view, and delete images.
+
+**Tech Stack**  
+Azure Functions, Azure Blob Storage, JavaScript, HTML, CSS
 
 > Note: Azure backend services were stopped due to cost considerations.  
 > The frontend demo and full source code remain available for review.
 
 ---
 
-### 🔊 Noise Prediction Tool (Environmental & Occupational Safety)
-A data-driven tool developed to support HSSE analysis and noise exposure prediction.
-
----
-
-### 📊 UAUC Power BI Dashboard (HSSE Reporting)
-Interactive Power BI dashboards developed during internship for HSSE reporting and performance monitoring.
-
----
-
 ### 🚰 Water Intake Mobile App
-A mobile application to track daily water intake and hydration goals.
+🔗 Live Demo: https://hanszdaniel.github.io/WaterIntake-Mobile-Application/  
+
+A mobile application to help users track daily water intake and maintain healthy hydration habits.
+
+**Key Features**
+- Daily water intake tracking  
+- Custom hydration goals  
+- Visual progress indicator  
+- Daily records tracking  
+
+**Tech Stack**  
+.NET MAUI, Firebase Realtime Database, C#, XAML
+
+---
+
+### 🔊 Noise Prediction Tool (Environmental & Occupational Safety) -Internship
+A data-driven tool developed to support HSSE analysis by predicting and evaluating noise exposure levels.
+
+**Focus Areas**
+- Environmental & occupational safety  
+- Data analysis and prediction  
+- Decision support for HSSE use cases  
+
+---
+
+### 📊 UAUC Power BI Dashboard (HSSE Reporting) -Internship 
+Interactive Power BI dashboards developed during internship to support HSSE reporting and performance monitoring.
+
+**Focus Areas**
+- Data visualisation  
+- KPI tracking  
+- Operational and safety reporting  
 
 ---
 
 ## 🧰 Skills
 
-**Programming:**  
-Python, PHP, JavaScript, SQL  
+**Programming & Development**  
+Python, PHP, JavaScript, SQL, C#  
 
-**Data & Analytics:**  
+**Data & Analytics**  
 Power BI, Pandas, Excel  
 
-**Cloud & Tools:**  
+**Cloud & Tools**  
 Azure, Firebase, GitHub  
 
 ---
@@ -65,3 +101,4 @@ Azure, Firebase, GitHub
 ## 📬 Contact
 📧 Email: hanszdaniel@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/hanszdaniel
+
