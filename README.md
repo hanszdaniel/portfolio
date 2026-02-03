@@ -8,15 +8,6 @@ The projects shown are some of my completed works throughout my degree studies a
 
 ## 🚀 Projects
 
-# Hansz Daniel Bin Suphian 👋
-
-Software Engineering graduate showcasing a portfolio of practical web, cloud, mobile, and data-driven projects.  
-Experienced in building end-to-end systems, analytics dashboards, and cloud-based applications with real deployments.
-
----
-
-## 🚀 Projects
-
 ### 💰 FundLink – Shared Account Financial Management System (Final Year Project)
 🔗 GitHub: https://github.com/hanszdaniel/FundLink-FYP  
 
@@ -49,7 +40,7 @@ Azure Functions, Azure Blob Storage, JavaScript, HTML, CSS
 
 ---
 
-### 🚰 Water Intake Mobile App
+### 🚰 Water Intake Mobile App (.Net Maui)
 🔗 Live Demo: https://hanszdaniel.github.io/WaterIntake-Mobile-Application/  
 
 A mobile application to help users track daily water intake and maintain healthy hydration habits.
