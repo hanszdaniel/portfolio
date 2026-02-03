@@ -2,7 +2,7 @@
 
 I am a UNITEN graduate who completed my studies in January 2026 and am ready to contribute in a professional environment. I am motivated to grow with the company while continuously improving my technical and analytical skills.
 
-The projects shown are some of my completed works throughout my degree studies and internship, demonstrating my hands-on experience in web development, cloud systems, mobile applications, and data analytics.
+The projects listed below represent selected works completed throughout my degree studies and internship, demonstrating hands-on experience in web development, cloud systems, mobile applications, and data analytics.
 
 ---
 
@@ -40,10 +40,10 @@ Azure Functions, Azure Blob Storage, JavaScript, HTML, CSS
 
 ---
 
-### 🚰 Water Intake Mobile App (.Net Maui)
+### 🚰 Water Intake Mobile App (.NET MAUI)
 🔗 Live Demo: https://hanszdaniel.github.io/WaterIntake-Mobile-Application/  
 
-A mobile application to help users track daily water intake and maintain healthy hydration habits.
+A mobile application developed to help users track daily water intake and maintain healthy hydration habits.
 
 **Key Features**
 - Daily water intake tracking  
@@ -56,8 +56,8 @@ A mobile application to help users track daily water intake and maintain healthy
 
 ---
 
-### 🔊 Noise Prediction Tool (Environmental & Occupational Safety) -Internship
-A data-driven tool developed to support HSSE analysis by predicting and evaluating noise exposure levels.
+### 🔊 Noise Prediction Tool (Environmental & Occupational Safety) — Internship
+A data-driven tool developed during internship to support HSSE analysis by predicting and evaluating noise exposure levels.
 
 **Focus Areas**
 - Environmental & occupational safety  
@@ -66,13 +66,33 @@ A data-driven tool developed to support HSSE analysis by predicting and evaluati
 
 ---
 
-### 📊 UAUC Power BI Dashboard (HSSE Reporting) -Internship 
+### 📊 UAUC Power BI Dashboard (HSSE Reporting) — Internship
 Interactive Power BI dashboards developed during internship to support HSSE reporting and performance monitoring.
 
 **Focus Areas**
 - Data visualisation  
 - KPI tracking  
 - Operational and safety reporting  
+
+---
+
+## 🏢 Internship Experience
+
+### PETRONAS – Downstream Business Excellence (HSE / HSSE)
+**IT Intern | June 2025 – September 2025**
+
+**Key Contributions**
+- Automated UAUC Power BI dashboard updates using Python (Selenium) and PowerShell  
+- Processed and managed large datasets (100,000+ records) for HSSE reporting  
+- Developed an Excel-based Noise Predicting Tool to estimate sound pressure levels (SPL)  
+- Designed interactive dashboards using Power BI, Excel, Power Query, and ActiveX controls  
+- Presented the Noise Predicting Tool to DOSH as part of HSE evaluation  
+
+**Tools & Technologies**  
+Python (Selenium), PowerShell, Power BI, Excel, Power Query, ActiveX Controls
+
+> Note: Source code and screenshots are not shared due to internal data confidentiality.  
+> Work scope and outcomes are documented in the official industrial training report.
 
 ---
 
@@ -84,6 +104,9 @@ Python, PHP, JavaScript, SQL, C#
 **Data & Analytics**  
 Power BI, Pandas, Excel  
 
+**Automation & Scripting**  
+Selenium (Python), PowerShell  
+
 **Cloud & Tools**  
 Azure, Firebase, GitHub  
 
@@ -92,4 +115,3 @@ Azure, Firebase, GitHub
 ## 📬 Contact
 📧 Email: hanszdaniel@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/hanszdaniel
-
